@@ -1,6 +1,18 @@
 # Gamification
 Doodling da game
 
+
+- [ ] Innlogging system - with your AAD user
+- [ ] Units - exp lvl, rank, firstname, lastname
+- [ ] Partition key - which units are connected to your user
+- [ ] Raids - 
+- [ ] EXP - system (lvl up at some treshold points)
+- [ ] Unlocking new functionality with higher lvls
+- [ ] Money (table with users (mail) and their money)
+- [ ] 
+
+
+
 # Rangstige av Titler
 - [ ] Trell - Thralls (unfree slaves)
 - [ ] Karls (carls or churls, freemen)
@@ -9,11 +21,27 @@ Doodling da game
 
 ![Alt Text](https://images.squarespace-cdn.com/content/v1/587948b52e69cf16d274de32/1523478883850-99CENR9Z1F7B1UI93YIQ/ke17ZwdGBToddI8pDm48kKG6OoQUcDwE6Xrn0CktdYIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc7wdBxA2FfWIL_oInLxCuGYBExGLaY8v4Pn7yFeMELUKe4DQXRx1Bu1AnCO9mIfj2/Norse-society.jpg?format=750w)
 
+# Game Mechanics
+- [ ] Train yourself, by click/double-click/hold? (slow progress)
+- [ ] EXP lvlup-system
+- [ ] Raids (quests)
+- [ ] Merchant trips (adventure time)
+- [ ] Training Unit by clicking
+- [ ] Buy upgrades
+- [ ] New functionality with higher lvls
+- [ ] text
+- [ ] text
 
-# Header 2
-- [ ] text
-- [ ] text
-- [ ] text
+
+
+# Raid
+- [ ] Map
+- [ ] Press whereever (but might not be anything there)
+- [ ] Generating available missions (coordinates)
+- [ ] Is it in water? - what happens, what kind of mission story is there?
+- [ ] % chance of success (random? based on lvl? based on distance?)
+- [ ] Coincidence when traveling, chances of disasters? (stuff might happen)
+- [ ] Display lvls of missions (easy, medium hard, insane, viking crazy)
 - [ ] text
 - [ ] text
 - [ ] text
@@ -22,3 +50,6 @@ Roterende pool av mercinaries, bruke penger for å leie soldat for oppdrag
 Power BI ting, FLOW ting, et visst sett av leiesoldater som roterer, tilfeldig kostnad, attributes etc.
 
 Knapp trigge flow
+
+Generisk bruker - begynne som konge por hemplo.
+Utvide med rollebregrep
