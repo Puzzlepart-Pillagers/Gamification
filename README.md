@@ -5,7 +5,7 @@ Doodling da game
 - [ ] Innlogging system - with your AAD user
 - [ ] Units - exp lvl, rank, firstname, lastname
 - [ ] Partition key - which units are connected to your user
-- [ ] Raids - 
+- [ ] Raids - generic function who gives something small in return (increase functionality later)
 - [ ] EXP - system (lvl up at some treshold points)
 - [ ] Unlocking new functionality with higher lvls
 - [ ] Money (table with users (mail) and their money)
