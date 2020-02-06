@@ -1,7 +1,7 @@
 # Gamification
 Doodling da game
 
-
+# Start functionality
 - [ ] Innlogging system - with your AAD user
 - [ ] Units - exp lvl, rank, firstname, lastname
 - [ ] Partition key - which units are connected to your user
@@ -9,11 +9,8 @@ Doodling da game
 - [ ] EXP - system (lvl up at some treshold points)
 - [ ] Unlocking new functionality with higher lvls
 - [ ] Money (table with users (mail) and their money)
-- [ ] 
 
-
-
-# Rangstige av Titler
+# Ranks
 - [ ] Trell - Thralls (unfree slaves)
 - [ ] Karls (carls or churls, freemen)
 - [ ] Jarls (chief among equals, priest)
@@ -29,10 +26,6 @@ Doodling da game
 - [ ] Training Unit by clicking
 - [ ] Buy upgrades
 - [ ] New functionality with higher lvls
-- [ ] text
-- [ ] text
-
-
 
 # Raid
 - [ ] Map
@@ -42,14 +35,10 @@ Doodling da game
 - [ ] % chance of success (random? based on lvl? based on distance?)
 - [ ] Coincidence when traveling, chances of disasters? (stuff might happen)
 - [ ] Display lvls of missions (easy, medium hard, insane, viking crazy)
-- [ ] text
-- [ ] text
-- [ ] text
+
 
 Roterende pool av mercinaries, bruke penger for å leie soldat for oppdrag
 Power BI ting, FLOW ting, et visst sett av leiesoldater som roterer, tilfeldig kostnad, attributes etc.
 
 Knapp trigge flow
 
-Generisk bruker - begynne som konge por hemplo.
-Utvide med rollebregrep
