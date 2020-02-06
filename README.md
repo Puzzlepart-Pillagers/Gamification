@@ -39,6 +39,6 @@ Doodling da game
 
 Roterende pool av mercinaries, bruke penger for å leie soldat for oppdrag
 Power BI ting, FLOW ting, et visst sett av leiesoldater som roterer, tilfeldig kostnad, attributes etc.
-
 Knapp trigge flow
 
+Opprette bruker via power automate som lager en office 365 bruker, hvor det sendes passord og pålogging til bruker som opprettes.
