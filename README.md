@@ -11,12 +11,12 @@ Doodling da game
 
 
 # Header 2
-- [] text
-- [] text
-- [] text
-- [] text
-- [] text
-- [] text
+- [ ] text
+- [ ] text
+- [ ] text
+- [ ] text
+- [ ] text
+- [ ] text
 
 Roterende pool av mercinaries, bruke penger for å leie soldat for oppdrag
 Power BI ting, FLOW ting, et visst sett av leiesoldater som roterer, tilfeldig kostnad, attributes etc.
